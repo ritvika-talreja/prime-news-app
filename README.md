@@ -1,6 +1,5 @@
 # Prime News App
 
-## Overview
 Prime News App is a web application that provides the latest news articles categorized by different topics. It uses the NewsAPI to fetch articles and displays them in a responsive grid layout. The application features a search bar and category buttons to filter news based on user preferences.
 
 ## Features
